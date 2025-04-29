@@ -1,0 +1,160 @@
+Prompt A: "Fragrance Notes: <python list of note strings>"
+Prompt B: "Fragrance Notes: <comma seperated string of notes>"
+Review Filters: At least 3 reviews on perfume, review length >40 and <280 characters.
+- Scores approximate relative semantic relevence to the prompt
+- The majority of scores increased for prompt B
+
+Prompt B Avg. Score across sample:  84.04448
+----------------------------------------------
+['Basil', 'Fig', 'Neroli', 'Vetiver'] 
+	A: 82.85742
+	B: 83.779915
+
+
+['African Orange Flower', 'Bergamot', 'Carnation', 'Geranium', 'Grapefruit', 'Jasmine', 'Lavender', 'Lemon Verbena', 'Lime', 'Orange', 'Petitgrain', 'oak moss'] 
+	A: 85.14536
+	B: 84.96553
+
+
+['Bamboo', 'Freesia', 'Ivy', 'Jasmine', 'Kiwi', 'Lily', 'Orchid', 'Plum', 'Rose', 'Sandalwood', 'Violet', 'Water Hyacinth', 'White Musk'] 
+	A: 82.747665
+	B: 84.20501
+
+
+['Almond', 'Biscuit', 'Cedar', 'Cherry', 'Datura', 'Mandarin Orange', 'Musk', 'Ylang-Ylang'] 
+	A: 84.38884
+	B: 85.05195
+
+['Amber', 'Apple', 'Bergamot', 'Jasmine', 'Lotus', 'Orange Blossom', 'Patchouli', 'Sandalwood', 'Violet'] 
+	A: 84.01192
+	B: 84.614525
+
+
+['Ambergris', 'Anise', 'Bergamot', 'Carnation', 'Cedar', 'Civet', 'Coriander', 'Galbanum', 'Geranium', 'Heliotrope', 'Jasmine', 'Musk', 'Myrrh', 'Nutmeg', 'Oakmoss', 'Patchouli', 'Peach', 'Plum', 'Rose', 'Rose', 'Sandalwood', 'Tarragon', 'Tonka Bean', 'Tuberose', 'Vanilla', 'Violet', 'Ylang-Ylang'] 
+	A: 83.03349
+	B: 82.93044
+
+
+['Bergamot', 'Ginger', 'Guaiac Wood', 'Musk', 'Rose', 'Saffron', 'Vanilla'] 
+	A:  82.34453
+	B:  83.89301
+
+
+['Lily-of-the-Valley', 'Peony', 'Pomegranate', 'Powdery Notes', 'Strawberry', 'Woody Notes'] 
+	A: 84.153595
+	B: 85.07538
+
+
+['Agarwood (Oud)', 'Australian Sandalwood', 'Black Leather', 'Brown sugar', 'Dried Apple Crisp', 'Honey', 'Labdanum', 'Metallic notes', 'Patchouli', 'Plum', 'Tonka Bean', 'Turkish Rose', 'Vanilla', 'White Musk'] 
+	A: 84.66936
+	B: 83.896736
+
+
+['African Orange Flower', 'Beeswax', 'Incense', 'Jasmine', 'Lotus', 'Myrhh', 'Olibanum', 'Rose'] 
+	A: 85.08871
+	B: 86.27181
+
+
+['Bergamot', 'Brazilian Orange', 'Caramel', 'Honey', 'Toffee', 'Vanilla'] 
+	A: 85.02286
+	B: 84.56662
+
+
+['Amaretto', 'Amber', 'Bergamot', 'Cherry Blossom', 'Heliotrope', 'Rose', 'Suede', 'Tonka Bean', 'Vanilla', 'Ylang-Ylang'] 
+	A: 84.65048
+	B: 84.47417
+
+
+['Cashmere Wood', 'Freesia', 'Lily-of-the-Valley', 'Mandarin Orange', 'Musk', 'Orange Blossom', 'Pear', 'Vetiver', 'White Tea'] 
+	A: 83.445786
+	B: 83.67501
+
+
+['Amalfi Lemon', 'Ambergris', 'Bergamot', 'Clary Sage', 'Coriander', 'Cypress', 'Jasmine', 'Juniper Berries', 'Lime', 'Mandarin Orange', 'Musk', 'Petitgrain', 'Virginia Cedar', 'Wormwood', 'oak moss'] 
+	A: 81.88321
+	B: 82.43404
+
+
+['Benzoin', 'Cedar', 'Incense', 'Iris', 'Tunisian Neroli'] 
+	A: 83.131714
+	B: 84.31139
+
+
+['Agarwood (Oud)', 'Bulgarian Rose', 'Chamomile', 'Papyrus'] 
+	A: 83.3774
+  B: 84.60242
+
+
+['Litchi', 'Patchouli', 'Pomarose', 'Red Currant', 'Rose Thorn', 'Vanilla', 'Whipped Cream'] 
+	A: 82.08773
+	B: 83.31647
+
+
+['Gardenia', 'Honeysuckle', 'Ivy', 'Musk', 'Oakmoss', 'Persimmon', 'Red Apple', 'Rose', 'Vetiver'] 
+	A: 84.75797
+	B: 85.54502
+
+
+['Amyris', 'Black Currant', 'Cashmere Wood', 'Cloves', 'Guaiac Wood', 'Incense', 'Mastic or Lentisque', 'Nutmeg', 'Orange Blossom', 'Patchouli', 'Pine Tree', 'Sandalwood', 'Smoke', 'Sweet Orange', 'Tobacco', 'elemi'] 
+	A: 81.91881
+	B: 82.064735
+
+
+['Agarwood (Oud)', 'Birch Leaf', 'Calabrian bergamot', 'Cedar', 'Grapefruit', 'Leather', 'Patchouli', 'Raspberry', 'Sandalwood', 'Vanilla', 'Vetiver'] 
+	A: 81.74825
+	B: 84.099846 
+
+
+['Amber', 'Atlas Cedar', 'Bergamot', 'Black Pepper', 'Mandarin Orange', 'Patchouli', 'Pink Pepper', 'Tunisian Neroli', 'Vetiver', 'White Pepper'] 
+	A: 84.10934
+	B: 83.22799
+
+
+['Amberwood', 'Italian Lemon', 'Musk', 'Oakmoss', 'Water Notes'] 
+	A: 81.66023
+	B: 83.121826
+
+
+['Iris', 'Orchid', 'Vanilla'] 
+	A: 80.79878
+	B: 83.59551
+
+
+['Amrostar®', 'Bay Leaf', 'Cashmeran', 'Geranium', 'Grapefruit', 'Labdanum', 'Longoza', 'Nutmeg', 'Red Apple', 'Tonka', 'Vanilla', 'Violet', 'Violet Leaf'] 
+	A: 82.95866
+	B: 83.70561
+
+
+['Algae', 'Ambergris', 'Ambrette (Musk Mallow)', 'Clary Sage', 'Fennel', 'Guatemalan Cardamom', 'Neroli', 'Tuberose', 'Vetiver'] 
+	A: 85.62401
+	B: 83.81091
+
+
+['Angelica', 'Bergamot', 'Cedar', 'Immortelle', 'Jasmine Sambac', 'Mandarin Orange', 'Neroli Essence', 'Orange Blossom', 'Petitgrain', 'Vetiver', 'Ylang-Ylang'] 
+	A: 85.16359
+	B: 84.90019
+
+
+['Coffee', 'Jasmine', 'White Chocolate'] 
+	A: 83.1933
+	B: 83.41045
+
+
+['Bergamot', 'Blood Mandarin', 'Blood Orange', 'Lemon', 'Lime', 'Musk', 'Powdery Notes', 'Sandalwood', 'Tiare Flower'] 
+	A: 84.30733
+	B: 84.47318
+
+
+['Cedar', 'Cinnamon', 'Cumin', 'Grapefruit', 'Musk'] 
+	A: 82.56461
+	B: 84.51455 
+
+
+['Bergamot', 'Cedar', 'Geranium', 'Kiwi', 'Moss', 'Rosemary'] 
+	A: 82.52414
+	B: 83.28164
+
+
+['Lemon', 'Mandarin Orange', 'Oakmoss', 'Palisander Rosewood', 'Vanilla'] 
+	A: 82.75761
+	B: 83.56288
