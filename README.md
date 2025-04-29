@@ -9,5 +9,5 @@ Do fragrance reviews on fragrantica.com mention notes?
 - The full dataset is too large to push to github, but the notebook cells marked with checkpoint can be run
 
 ### Outcome
-- `e5-large-instruct` is good at ranking reviews
+- `e5-large-instruct` embeddings are viable for ranking reviews
 - The MLP did not yield results
