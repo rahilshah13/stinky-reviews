@@ -8,6 +8,7 @@ Do fragrance reviews on fragrantica.com mention notes?
 ### Misc
 - The full dataset is too large to push to github, but the notebook cells marked with checkpoint can be run
 - TODO: Test embedding invariance vs. input length (directional invariance)
+- TODO: Investigate translational equivariance
 
 ### Outcome
 - `e5-large-instruct` embeddings are viable for ranking reviews
