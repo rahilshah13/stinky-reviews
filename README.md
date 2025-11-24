@@ -8,7 +8,7 @@ Do fragrance reviews on fragrantica.com mention notes?
 ### Misc
 - The full dataset is too large to push to github, but the notebook cells marked with checkpoint can be run
 - TODO: Measure directional and translational invariances w.r.t. prompts
-- (11/24/25): All cells of this notebook are broken due to dependemcy issues
+- (11/24/25): All cells of this notebook are broken due to dependency issues
 
 ### Outcome
 - `e5-large-instruct` embeddings are viable for ranking reviews
